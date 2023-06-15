@@ -14,3 +14,4 @@ btn.onclick = function(){
     if(calculo <= 34.9){ resposta.innerText += ` Obesidade 1`; return};
     if(calculo <= 39.9){ resposta.innerText += ` Obesidade 2`; return};
 }
+

@@ -66,6 +66,7 @@ body {
     background-color: var(--branco2);
 }
 
+
 .box button:hover {
     transition-duration: 150ms;
     background-color: var(--verde5);
